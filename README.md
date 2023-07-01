@@ -14,8 +14,8 @@ HTML5 trabaja de la mano con CSS3 para crear sitios web que usamos todos los dí
 En este proyecto, con los conocimientos de HTML y CSS realicé una página simple de gatitos. 
 
 
-## 3. Ojetivo del proyecto
+## 2. Ojetivo del proyecto
 Aprender a utilizar las etiquetas de HTML5 y CSS3.
 
-## 4. Nota
+## 3. Nota
 Cuando ya tenga más conocimientos mejoraré está página.
